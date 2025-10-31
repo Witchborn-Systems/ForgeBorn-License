@@ -14,6 +14,7 @@ This project is released under the [ForgeBorn License](LICENSE).
 - Always credit your source — don’t hide it
 - No white-label/resale without explicit permission
 - SaaS is OK as long as you credit
+- You may sell or share binary-only, source is always optional
 - If you profit, resell, or go big: contact the author, partner up, or join the Hall
 - Don’t be a kreftface. The Forge remembers.
 
