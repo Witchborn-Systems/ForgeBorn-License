@@ -62,6 +62,25 @@ If you violate the license (erase credit, resell, hide origin, abuse the work),
 This license runs on builder’s honor. If you have to ask “is this shitty?”—it probably is.  
 Credit, share, and build up, don’t steal, erase, or bury your source.
 
+=== AI, Machine Learning, and Generative Content ===
+
+- The ForgeBorn License covers all forms of creative, technical, and informational output, including but not limited to:
+  - Software (source, binary, plugins, scripts)
+  - AI/ML models, weights, datasets, training data, and evaluation benchmarks
+  - Prompts, configuration files, and hyperparameters
+  - Generated content (images, text, audio, video, code, or art produced by AI)
+  - Documentation, research, and metadata
+
+- You may use, train, fine-tune, or deploy AI models and generative tools under this license, provided you honor all main terms:
+  - **Attribution:** credit the original authors, data, models, and sources in an accessible, public, and user-facing way.
+  - **Transparency:** clearly disclose if your project, product, or output is derived from, trained on, or uses ForgeBorn-licensed assets, data, or models.
+  - **No closed-source resell/white-labeling of models, weights, or datasets without explicit permission from the original author(s).**
+  - **SaaS and open/public inference endpoints are allowed, provided credit is shown to all upstream sources and contributors.**
+
+- You are encouraged (but never required) to share your models, weights, or data improvements openly, and may register them in the Forge Hall for Oathbound recognition.
+
+- Use of ForgeBorn-licensed models, datasets, or content for oppressive, deceptive, surveillance, or harmful AI systems is forbidden. When in doubt, honor the dev’s boundaries, and ask first.
+
 === Attribution Example ===
 
 In README, docs, splash screen, About page, or public-facing site/app:
