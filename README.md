@@ -1,7 +1,3 @@
-Of course! Here’s your **README.md** as rendered markdown, not in a code fence, so you can copy and paste directly from here:
-
----
-
 # ForgeBorn License
 
 *A Witchborn Systems Attribution Oath*

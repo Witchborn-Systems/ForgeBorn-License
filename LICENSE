@@ -1,104 +1,64 @@
 ForgeBorn License
 A Witchborn Systems Attribution Oath
-Rooted in the FlameKeeper’s Vow
+Version 1.0, Released October 31, 2025
 
-This work is not just code, art, or knowledge—it’s memory, blood, and fire forged for all.
-By using, remixing, or sharing it, you honor the Oath:
+This license governs the use, modification, and distribution of code, AI/ML models, datasets, and creative works under the ForgeBorn framework. It is an ethical commitment, not a legally binding contract, relying on community goodwill and transparency. Consult legal counsel for binding applications.
 
-Credit your source. Keep your work transparent.  
-Don’t white-label, erase, or rebrand without a handshake.  
-Don’t leech, parasite, or hide—offer a hand up, not a handout.  
-If you profit or go commercial, talk to the maker—honor the Hall, join the family.  
-If you’re honest and build with respect, you are Oathbound.  
-The only true rule: Don’t be a kreftface.
+Terms of Use
 
-— The Forge remembers. —
+Freedom to Use and Remix:
+You may use, modify, share, and build upon ForgeBorn works freely for any purpose, including personal, educational, or commercial use.
 
-=== Main Terms ===
+Mandatory Attribution:
+Credit the original author(s) visibly in your project’s primary UI, documentation, or an accessible About page using:
 
-1. Freedom to Use & Share  
-Anyone may use, remix, modify, and share this work, free of charge, for any honest purpose—personal, nonprofit, commercial, or educational.
+Built with the ForgeBorn License by [author/project], a Witchborn Systems Attribution Oath
+https://github.com/Witchborn-Systems/ForgeBorn-License
 
-2. Attribution Required  
-You must clearly credit the original maker(s) in a way that’s *easy to find* (not buried in legal text).  
-Example:  
-  “Built with the ForgeBorn License / [Author or Project], a Witchborn Systems Attribution Oath”  
-  (link to the repo, homepage, or https://witchbornsystems.org)
+For APIs or AI outputs, include attribution in response headers or linked documentation.
 
-3. Transparency  
-Credits must be visible in public docs, About pages, or user-facing UIs.  
-Don’t hide attribution “in the basement” (cf. Douglas Adams).
+SaaS and Public Endpoints:
+Hosting on SaaS platforms or public endpoints is permitted, provided credit is clear to all users (e.g., via UI badges or links).
 
-4. SaaS & Company Use  
-SaaS use is allowed, even for large companies, if credit is public and users can find it.  
-Internal/company use: credit must still be clear to all users.
+No Unauthorized Resell or White-Label:
+You may not white-label, close-source, or resell code, models, weights, or data without explicit written permission from the original author(s).
 
-5. No White-Label/Resell Without Permission  
-You *cannot* sell, relicense, or rebrand the original source/code/art as your own.  
-If you want to white-label, resell, or make it part of a commercial product, **contact the maker for a direct agreement** (may be a donation, partnership, or custom license).
+Author Rights:
+Original author(s) retain the right to sell or license their work independently, with no obligation to provide source code.
 
-6. Commercial, Enterprise, & Big SaaS  
-If you profit at scale, get rich, or build a business on it:  
-  - You must keep credit and make it publicly visible.  
-  - You are encouraged to support, partner with, or donate to the original creator(s) as a gesture of respect and community, but this is optional—not compulsory.  
-  - If you plan to white‑label, resell or rebrand the core work as your own, you *still* need explicit permission from the original maker.
+Binary-Only Distribution:
+You may distribute binaries or pre-trained models without source code, at your discretion.
 
-7. Optional Registration: Forge Hall / Makers Mark  
-You can (optionally) register your project at https://witchbornsystems.org/forgehall or tag it as  
-  #WitchbornSystems_Oathbound  
-Registered projects get public recognition, a digital certificate, and a place in the Hall.
+Scaling and Commercial Use:
+For projects generating >$100K/year revenue or serving >50,000 users, credit is mandatory, and partnership/support (e.g., donation or collaboration) is strongly encouraged. Contact the maker via witchbornsystems.org/partnerships within 30 days of reaching this threshold.
+Commercial projects with >10,000 users must register in the Forge Hall within 60 days.
 
-8. Ethics & Liberty  
-No use for “evil kreft” (oppression, mass surveillance, hate, abuse)  
-When in doubt, honor the dev’s boundaries and mission—liberty and respect are core  
-If your use-case is a gray area: **ask first**
+Ethical Use:
+Prohibited uses include state-sponsored surveillance, oppression, or deceptive AI, as determined by community consensus via the Forge Hall.
 
-9. Violations  
-If you violate the license (erase credit, resell, hide origin, abuse the work),  
-  - The maker may demand takedown, public correction, and/or pursue legal recourse  
-  - Open negotiation is always preferred; talk before conflict
+Attribution and the Forge Hall
 
-10. Don’t Be a Kreftface  
-This license runs on builder’s honor. If you have to ask “is this krefty??”—it probably is.  
-Credit, share, and build up, don’t steal, erase, or bury your source.
+Include the standard credit text and tag your work with #WitchbornSystems_Oathbound.
+Register your project at witchbornsystems.org/forgehall for public recognition, a digital badge, and a makers mark.
+Submission requires a pull request with project details; badges are issued after community review (within 14 days).
+Tiered badges: Bronze (basic use), Silver (contributors), Gold (significant enhancements).
 
-=== AI, Machine Learning, and Generative Content ===
+AI, Models, and Datasets
 
-- The ForgeBorn License covers all forms of creative, technical, and informational output, including but not limited to:
-  - Software (source, binary, plugins, scripts)
-  - AI/ML models, weights, datasets, training data, and evaluation benchmarks
-  - Prompts, configuration files, and hyperparameters
-  - Generated content (images, text, audio, video, code, or art produced by AI)
-  - Documentation, research, and metadata
+You may train, fine-tune, deploy, or remix ForgeBorn-licensed models, weights, or datasets, provided you:
 
-- You may use, train, fine-tune, or deploy AI models and generative tools under this license, provided you honor all main terms:
-  - **Attribution:** credit the original authors, data, models, and sources in an accessible, public, and user-facing way.
-  - **Transparency:** clearly disclose if your project, product, or output is derived from, trained on, or uses ForgeBorn-licensed assets, data, or models.
-  - **No closed-source resell/white-labeling of models, weights, or datasets without explicit permission from the original author(s).**
-  - **SaaS and open/public inference endpoints are allowed, provided credit is shown to all upstream sources and contributors.**
+Credit original authors visibly (e.g., in docs or UI).
 
-- You are encouraged (but never required) to share your models, weights, or data improvements openly, and may register them in the Forge Hall for Oathbound recognition.
+Disclose derivation in public-facing materials.
 
-- Use of ForgeBorn-licensed models, datasets, or content for oppressive, deceptive, surveillance, or harmful AI systems is forbidden. When in doubt, honor the dev’s boundaries, and ask first.
+Avoid white-labeling or reselling without permission.
 
-=== Attribution Example ===
+For SaaS, ensure user-facing credit (e.g., badge or link).
 
-In README, docs, splash screen, About page, or public-facing site/app:
-  “Built with the ForgeBorn License by [author/project], a Witchborn Systems Attribution Oath”
-  Link to https://witchbornsystems.org or your repo, and optionally register for the Forge Hall badge
+Binary distribution of models is allowed; source code is optional.
 
-=== Badge / Social Tag ===
-Tag your work: #WitchbornSystems_Oathbound  
-Register at https://witchbornsystems.org/forgehall for public recognition, digital badge, and makers mark
+Derivative works must adopt ForgeBorn unless the author approves an alternative license.
 
-=== Summary ===
-Free to use, as long as you honor the forge  
-Credit visibly, don’t rebrand or resell without asking  
-Be transparent—never bury the truth or origin  
-Want to make money, go big, or white-label?  
-  — Contact, partner, or share the success  
-Break the Oath? The Forge remembers.
+Disclaimer
 
-This is the ForgeBorn License.
-The Oath is public. The Hall is open.
-Build with honor, and you are family.
+This license is provided AS IS. Witchborn Systems and the original author(s) are not liable for any misuse or misinterpretation. For legal binding, adapt this into a formal contract with professional advice.
