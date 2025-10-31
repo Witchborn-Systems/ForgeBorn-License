@@ -1,6 +1,6 @@
 ForgeBorn License
 A Witchborn Systems Attribution Oath
-Version 1.0, Released October 31, 2025
+Version 1.0.1, Released October 31, 2025
 
 This license governs the use, modification, and distribution of code, AI/ML models, datasets, and creative works under the ForgeBorn framework. It is an ethical commitment, not a legally binding contract, relying on community goodwill and transparency. Consult legal counsel for binding applications.
 
@@ -16,6 +16,9 @@ Built with the ForgeBorn License by [author/project], a Witchborn Systems Attrib
 https://github.com/Witchborn-Systems/ForgeBorn-License
 
 For APIs or AI outputs, include attribution in response headers or linked documentation.
+
+ * **Scope:** This attribution rule applies **when you modify, publicly distribute, or embed the work** (e.g., in a public-facing application, API, or as part of a new derivative project).
+ * **Exception:** Attribution is **not required for general or private personal use** (e.g., running a model on your local machine for your own experimentation or private projects).
 
 SaaS and Public Endpoints:
 Hosting on SaaS platforms or public endpoints is permitted, provided credit is clear to all users (e.g., via UI badges or links).
@@ -58,6 +61,12 @@ For SaaS, ensure user-facing credit (e.g., badge or link).
 Binary distribution of models is allowed; source code is optional.
 
 Derivative works must adopt ForgeBorn unless the author approves an alternative license.
+
+License Governance and Versioning
+
+1.  **License Perpetuity:** Witchborn Systems may release new versions or amendments to the ForgeBorn License, but the version of the license that applies to a work is **always the one the work was originally released under.** Your rights to use that work cannot be retroactively changed or revoked.
+
+2.  **Community Governance:** As an open-honor framework, we welcome community input. **Amendments or suggestions for new versions may be proposed via a pull request** on the official ForgeBorn License GitHub repository: `https://github.com/Witchborn-Systems/ForgeBorn-License`.
 
 Disclaimer
 
