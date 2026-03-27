@@ -1,6 +1,6 @@
 # ForgeBorn License
 
-*A Witchborn Systems Attribution Oath (Version 1.0.1)*
+*A Witchborn Systems Attribution Oath (Version 1.0.1)* https://doi.org/10.5281/zenodo.19261098
 
 This repository contains the official text for the ForgeBorn License (v1.0.1), a creator-focused, attribution-based license designed for the modern era of code, AI, and creative work.
 
